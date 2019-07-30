@@ -5,7 +5,6 @@
   "gitRepositoryURL": "",
   "version": "0.1.1",
   "highlight" : "default",
-  "folder":"Dark",
   "colors": {
     "primaryColor": "#222222",
     "secondaryColor": "#171717",

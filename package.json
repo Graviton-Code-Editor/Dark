@@ -3,7 +3,7 @@
   "description":"Dark Theme.",
   "author": "Marc Espín Sanz",
   "gitRepositoryURL": "",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "highlight" : "default",
   "colors": {
     "primaryColor": "#222222",
@@ -21,7 +21,7 @@
     "titleBar-icons-color":"white",
     "window-radius":"8px",
     "window-border-color":"#2E2E2E",
-    "notifications-background-color":"#474747",
+    "notifications-background-color":"#252525",
     "notifications-window-radius":"5px",
     "shadows":"rgba(0,0,0,0.30)",
     "scalation":"0.98",

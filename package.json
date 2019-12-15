@@ -5,6 +5,7 @@
   "gitRepositoryURL": "",
   "version": "0.1.2",
   "highlight" : "default",
+  "logo":"logo.svg",
   "colors": {
     "primaryColor": "#222222",
     "secondaryColor": "#171717",
